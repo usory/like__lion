@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/like__lion/static/css/main.8f6d6b9f.css",
+    "main.js": "/like__lion/static/js/main.7522de81.js",
+    "index.html": "/like__lion/index.html",
+    "main.8f6d6b9f.css.map": "/like__lion/static/css/main.8f6d6b9f.css.map",
+    "main.7522de81.js.map": "/like__lion/static/js/main.7522de81.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8f6d6b9f.css",
+    "static/js/main.7522de81.js"
+  ]
+}
