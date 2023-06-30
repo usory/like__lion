@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/usory/musicstore.github.io.git/static/css/main.8f6d6b9f.css",
-    "main.js": "/usory/musicstore.github.io.git/static/js/main.7522de81.js",
-    "index.html": "/usory/musicstore.github.io.git/index.html",
-    "main.8f6d6b9f.css.map": "/usory/musicstore.github.io.git/static/css/main.8f6d6b9f.css.map",
-    "main.7522de81.js.map": "/usory/musicstore.github.io.git/static/js/main.7522de81.js.map"
+    "main.css": "/usory/musicstore.github.io/static/css/main.8f6d6b9f.css",
+    "main.js": "/usory/musicstore.github.io/static/js/main.7522de81.js",
+    "index.html": "/usory/musicstore.github.io/index.html",
+    "main.8f6d6b9f.css.map": "/usory/musicstore.github.io/static/css/main.8f6d6b9f.css.map",
+    "main.7522de81.js.map": "/usory/musicstore.github.io/static/js/main.7522de81.js.map"
   },
   "entrypoints": [
     "static/css/main.8f6d6b9f.css",
